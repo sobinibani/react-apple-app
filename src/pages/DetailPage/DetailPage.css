@@ -1,0 +1,34 @@
+.detailpage {
+    width: 50%;
+    margin: 100px auto 0 auto;
+}
+
+.detail-img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.item {
+    margin-bottom: 30px;
+}
+
+.item-title {
+    font-weight: bold;
+}
+.genres {
+    background-color: #fff;
+    color: rgb(43, 43, 43);
+    margin-right: 10px;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.movie-overview {
+    background-color: #ffffff1f;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.movie-overview>p {
+    font-size: 14px;
+}
